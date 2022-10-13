@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sacoders12
 - 👀 I’m interested in web dev, game dev and cyber security
-- 🌱 I’m currently learning .Net Core, Golang and Sping Boot
+- 🌱 I’m currently learning .Net Core, Golang, Spring Boot and Rust
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me DM on my twitter @agunghrmwn28
 
